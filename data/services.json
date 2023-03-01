@@ -1,0 +1,38 @@
+[
+    {
+        "title": "KTm",
+        "image_url": "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bW90b3JiaWtlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "price": 180000,
+        "details": "This my  most popular service.You are a sports man.160cc,good design good quilty.I will give my best for your project.I always ensure that first delivery and quality workI will give my best for your project.I always ensure that first delivery and quality work.I have all the updated equipments.This is our most affortable service. we give full support to our customer."
+    },
+    {
+        "title": "Ryal Enfield",
+        "image_url": "https://images.unsplash.com/photo-1622185135505-2d795003994a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YmlrZXN8ZW58MHx8MHx8&w=1000&q=80",
+        "price":20500,
+        "details": "This service is our second most popular service.You are a sports man.160cc,good design good quilty.I will give my best for your project.I always ensure that first delivery and quality workI will give my best for your project.I always ensure that first delivery and quality work.I have all the updated equipments.This is our most affortable service. we give full support to our customer. "
+    },
+    {
+        "title": "BMw",
+        "image_url": "https://cdn.pixabay.com/photo/2016/04/07/06/53/bmw-1313343__340.jpg",
+        "price": 200000,
+        "details": "This is our most affortable service.You are a sports man.160cc,good design good quilty.I will give my best for your project.I always ensure that first delivery and quality workI will give my best for your project.I always ensure that first delivery and quality work.I have all the updated equipments.This is our most affortable service. we give full support to our customer."
+    },
+    {
+        "title": "Ducati",
+        "image_url": "https://moneyinc.com/wp-content/uploads/2018/06/Ducati-1-750x422.jpg",
+        "price": 300000,
+        "details": "You are a sports man.160cc,good design good quilty.I will give my best for your project.I always ensure that first delivery and quality workI will give my best for your project.I always ensure that first delivery and quality work.I have all the updated equipments.This is our most affortable service. we give full support to our customer.."
+    },
+    {
+        "title": "Kwasaki Ninja",
+        "image_url": "https://images.unsplash.com/photo-1597689609001-f4a3dc7195fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8a2F3YXNha2klMjBuaW5qYXxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "price": 1200000,
+        "details": "This is my new Service.1200 cc , sports motor bike,4 suspention.I will give my best for your project.I always ensure that first delivery and quality work.I have all the updated equipments.This is our most affortable service. we give full support to our customer."
+    },
+    {
+        "title": "R 15v4",
+        "image_url": "https://mcmscache.epapr.in/post_images/website_300/post_13877546/thumb.jpg",
+        "price": 14000,
+        "details": "You are a sports man.160cc,good design good quilty.I will give my best for your project.I always ensure that first delivery and quality workI will give my best for your project.I always ensure that first delivery and quality work.I have all the updated equipments.This is our most affortable service. we give full support to our customer."
+    }
+]
